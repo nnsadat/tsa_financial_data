@@ -1,0 +1,8 @@
+Augmented Dickey Fuller Test on Returns 
+
+	Augmented Dickey-Fuller Test
+
+data:  returns
+Dickey-Fuller = -2.9647, Lag order = 2, p-value = 0.2049
+alternative hypothesis: stationary
+

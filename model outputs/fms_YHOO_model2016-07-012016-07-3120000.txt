@@ -1,0 +1,17 @@
+Fitted Model Summary 
+Series: returns 
+ARIMA(2,0,0) with zero mean     
+
+Coefficients:
+          ar1     ar2
+      -0.2861  0.1988
+s.e.   0.2338  0.2309
+
+sigma^2 estimated as 0.9661:  log likelihood=-25.68
+AIC=57.37   AICc=58.97   BIC=60.2
+
+Training set error measures:
+                     ME      RMSE       MAE      MPE     MAPE     MASE
+Training set 0.03159432 0.9297407 0.7404092 21.64275 240.0033 0.601144
+                   ACF1
+Training set 0.04542747

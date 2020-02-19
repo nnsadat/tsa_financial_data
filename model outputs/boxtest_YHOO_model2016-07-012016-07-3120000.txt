@@ -1,0 +1,7 @@
+BOX TEST RESULT ON RESIDUALS: 
+
+	Box-Pierce test
+
+data:  residuals
+X-squared = 0.039209, df = 1, p-value = 0.843
+
